@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="TestNG">
+        <classes>
+            <!--<class name="testng.test.NewTestNG"/>-->
+            <!--<class name="testng.test.TestNGHelloWorld" />-->
+            <class name="httpclientdemo.RegisterCase_v7"/>
+        </classes>
+    </test> <!-- TestNG -->
+</suite> <!-- Defult Suite -->
